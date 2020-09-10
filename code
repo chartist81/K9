@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Raleway&display=swap" rel="stylesheet">
+    
+  <title>Edy's K-9</title>
+</head>
+<body>
+  <header>
+      <script src="js/script.js"></script>
+      <div id="sidebar" class="wrapper">
+        
+        <div class = "toggle-btn" onclick = "toggleSidebar()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <ul>
+            <li>quienes somos</li>
+            <li>entrenamiento</li>
+            <li>preguntas</li>
+            <li> <a href="https://www.edysk9.com/" aria-current="page">Home</a></li>
+            <li>mercaderia</li>
+            <li>cachorros y camadas</li>
+            <li>contactanos</li>
+        </ul>
+      </div>
+      <div class="company-text">
+          <h1>Edy's K-9 Dog Trainig</h1>
+          <h2>Donde tu mascota aprende a ser feliz</h2>
+          <a href="home.html">Descubrenos</a>
+      </div>
+            
+  </header>
+
+</body>
+
+</html>
