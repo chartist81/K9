@@ -74,7 +74,7 @@ html{
 
 
 header {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("img/logo.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
     height: 100vh;
     background-size: cover;
     background-position: fixed;
